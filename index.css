@@ -1,0 +1,45 @@
+/* span{
+    margin-bottom: 40px;
+} */
+#num1-el{
+    font-size: 24px;
+    padding-left: 380px;
+}
+
+#num2-el{
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+button{
+    border-radius: 16px;
+    border: none;
+    font-weight: bold;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    cursor: pointer;
+}
+
+#add-btn{
+    background: darkgreen;
+}
+
+#subtract-btn{
+    background: darkred;
+}
+
+#divide-btn{
+    background: rgb(151, 115, 4);
+}
+
+#multiply-btn{
+    background: darkblue;
+}
+
+#sum-el{
+    font-size: 24px;
+    padding-left: 280px;
+    
+}
